@@ -49,16 +49,12 @@ docker run -it \
     webhook-test
 ```
 
-// HERE
-
-## Contributing (as a contributor)
-
-## Custom Section(s)
-
-## Files
-
 ## Acknowledgements
 
 ### By
 
+* John F. Marion
+
 ### Built With
+
+* [Flask](https://flask.palletsprojects.com/)
